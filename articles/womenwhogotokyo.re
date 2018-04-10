@@ -26,7 +26,7 @@ https://talks.godoc.org/github.com/davecheney/introduction-to-go/introduction-to
 
 #### GCP Global Meetupの開催
 2017年6月には、GCPUG Tokyo(Google Cloud Platform User Group)とイベントを共催しました。GDG Cloud Londonからは、女性エンジニアの@chibichibibrが来日し、テクノロジー業界でのダイバーシティについてプレゼンテーションをしました。  
-Women Who Goも共催コミュニティとして、GCP x Goをテーマに、Cloud Vision APIとGoを使って画像コンテンツ分析をするプレゼンテーションをしました。
+Women Who Goも共催コミュニティとして、私が、GCP x Goをテーマに、Cloud Vision APIとGoを使って画像コンテンツ分析をするプレゼンテーションをしました。
 
 #### GDG Devfest Tokyoへの参加
 2017年10月には、GDG Devfest Tokyo 2017に、初めてWomen Who Go Tokyoとして参加をしました。一緒にスタッフとして活動している@micchiebearさんと@mom0tomoさんが、初めてGoを学んでから、プロダクトに導入するまでの経験をプレゼンテーションしました。
